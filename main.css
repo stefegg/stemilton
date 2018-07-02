@@ -9,12 +9,13 @@
 
 .mega-main {
   text-align: center;
-  color: red;
-  border: 5px solid red;
+  color: blue;
+  border: 5px solid blue;
   height: 100%;
   padding: 5% 50px 0px 50px;
-  background-color: #464647;
+  background-color: #5998ff;
   overflow: auto;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .samus-main {
@@ -51,4 +52,40 @@
   text-decoration: none;
   font-size: 110%;
   font-family: 'Space Mono', monospace;
+}
+
+.samus-main a img {
+  max-width: 100px;
+  max-height: auto;
+
+}
+
+.samus-main a {
+  background-color: #c40000;
+  border-radius: 10px;
+  border: 2px solid gray;
+  color: #eae5e5;
+  text-decoration: none;
+  font-size: 110%;
+  font-family: 'Space Mono', monospace;
+}
+
+.samus-main a {
+  background-color: #c40000;
+  border-radius: 10px;
+  border: 2px solid gray;
+  color: #eae5e5;
+  text-decoration: none;
+  font-size: 110%;
+  font-family: 'Space Mono', monospace;
+}
+
+
+.pick-box {
+  width: 50%;
+  margin: 0 25% 0 25%;
+}
+
+.kill-margin {
+  margin: 0px 0px 5% 0px;
 }
