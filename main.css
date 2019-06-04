@@ -24,7 +24,34 @@
   border: 5px solid white;
   padding: 5% 50px 0px 50px;
   height: 100%;
-  background-color: #464647;
+  background-color: #2b1b33;
+  font-family: 'Oswald', sans-serif;
+}
+
+.samus-main a img {
+  max-width: 100px;
+  max-height: auto;
+
+}
+
+.samus-main a {
+  background-color: #c40000;
+  border-radius: 10px;
+  border: 2px solid gray;
+  color: #eae5e5;
+  text-decoration: none;
+  font-size: 110%;
+  font-family: 'Space Mono', monospace;
+}
+
+.samus-main a {
+  background-color: #c40000;
+  border-radius: 10px;
+  border: 2px solid gray;
+  color: #eae5e5;
+  text-decoration: none;
+  font-size: 110%;
+  font-family: 'Space Mono', monospace;
 }
 
 .samus-main a img {
